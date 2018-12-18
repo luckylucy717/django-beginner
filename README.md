@@ -12,7 +12,7 @@ python manage.py runserver
 프로젝트 내부에 별도의 어플리케이션 만들기  
 python manage.py startapp blog  
 
-모델 만들기 
+모델 만들기  
 python manage.py makemigrations blog 
 
 실제 데이터베이스에 모델 추가하기  
